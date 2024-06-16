@@ -12,3 +12,7 @@ export const twoSumV1 = function (nums, target) {
     }
   }
 };
+
+export const twoSumV2 = function (nums, target) {
+  
+};
